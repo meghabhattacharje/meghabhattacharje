@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Megha Bhattacherjee
 
-<!--
-**meghabhattacharje/meghabhattacharje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I'm a beginner in coding and learning new things every day.  
+Currently exploring Python, GitHub, and how to build fun and useful projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tools & Languages I'm Learning
+- Python
+- Java
+- Git & GitHub
+- Cloud
+- AI
+
+---
+
+### 📫 How to Reach Me
+Feel free to contact me via email: **mebhatt007@gmail.com**
+
+---
+
+Thanks for visiting my profile! 😊
